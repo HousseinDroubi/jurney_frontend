@@ -1,0 +1,96 @@
+body {
+    background-color:#aaabaa;
+}
+
+.middle_div{
+    margin: 0px;
+    height:95vh;
+    margin-top: 30px;
+    margin-bottom: 30px ; 
+    width: 34%;
+    background-color: #cccccc;
+}
+.top_div{
+    height: 8vh;
+    margin: 0px;
+    background-color: white;
+}
+.p3{
+    
+    font-family:Blippo,fantasy;
+    color:#78373e;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+.p2{
+    
+    color:#78373e;
+    font-weight:bold;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+}
+.p1{
+    
+    color:#990033;
+    font-family: Arial, sans-serif;
+    font-size: 9px;
+}
+.p0{
+    color:#666666;
+    font-size:9px;     
+}
+
+.input1{
+    margin-left: 20px;
+    margin-top: 1px;
+    width:74%;
+    height:20px;
+    border-color:grey;
+    border:solid 1px #ccc;
+    border-radius: 4px;
+}
+.input2{
+    margin-right: 15px;
+    width:90%;
+}
+.input3{
+    width:25%;
+    height:30px;
+    font-size: 11px;
+    border:solid 1px #ccc;
+    border-radius: 4px;
+    color: white;
+    background-color: #666666;
+}
+
+.right_div{
+    text-align:left;
+    width: 50%;
+    float:right;
+}
+
+.left_div{ 
+    text-align:left;
+    width: 50%;
+    float:left;
+}
+.all_div{ 
+    text-align:left;
+    width: 100%;
+    float: left;
+}
+.padding_left{
+    padding-left: 20px;
+}
+.padding_top{
+    padding-top: 10px;
+}
+.margin_top{
+    margin-top: 15px;
+}
+.margin_left{
+    margin-left: 20px;
+}
+.break{
+    margin-top:25px;
+}
